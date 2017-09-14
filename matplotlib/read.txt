@@ -1,0 +1,2 @@
+create new files --> type a folder name as a file and type '/' --> a folder will then be created
+--> create at least a blank file in the path to path to make the folder valid
